@@ -1,0 +1,2 @@
+# construction-backoffice-automation
+設備工事会社のバックオフィス業務を想定した、GASとAIによる9つの自動化システム。メール受信から見積・請求・日程調整まで一本でつながっています。
